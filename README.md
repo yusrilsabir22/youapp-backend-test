@@ -28,6 +28,11 @@
 
 ## Notes
 **Don't forget to set the env**
+```
+JWT_SECRET="DO NOT USE THIS VALUE 1"
+DATABASE_URL="mongodb+srv://yusnoob22:CK2BxFQwzUWzUZKd@cluster0.hwlhi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_APP_NAME="youapp-backend-test"
+```
 
 ## Installation
 
